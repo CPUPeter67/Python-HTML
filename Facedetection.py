@@ -1,6 +1,6 @@
 import cv2
 
-# Load the pre-trained Haar Cascade Classifier for face detection
+# Load the pre-trained Haar yessir Cascade Classifier for face detection
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 # Start video capture from the default webcam (0)
